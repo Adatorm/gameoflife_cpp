@@ -7,4 +7,4 @@ terminal interface
 ![interface](https://github.com/Stormcun/gameoflife_cpp/blob/master/data/gol-terminal.jpg?raw=true)
 
 
-java version = https://github.com/Stormcun/gameoflife_java
+java version = https://github.com/Adatorm/gameoflife_java
